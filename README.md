@@ -15,7 +15,7 @@ Lecture 16	[Start your First Django Project](../../tree/c44b4332ab5bc02cc4edf068
 
 Lecture 17	First view using Function Based Views
 
-Lecture 18	Settings Setup
+Lecture 18	[Settings Setup](../../tree/abd0c5b19815d5d1f28d08de93c1307d80ab5fd6)
 
 Lecture 19	Implement Bootstrap for Front End Design
 

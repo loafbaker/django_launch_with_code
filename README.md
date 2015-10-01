@@ -17,9 +17,9 @@ Lecture 17	First view using Function Based Views
 
 Lecture 18	[Settings Setup](../../tree/abd0c5b19815d5d1f28d08de93c1307d80ab5fd6)
 
-Lecture 19	Implement Bootstrap for Front End Design
+Lecture 19	[Implement Bootstrap for Front End Design](../../tree/03c191f4afaf2c42bdbe1138517025dbefb6f932)
 
-Lecture 20	Start a Django App
+Lecture 20	[Start a Django App](../../tree/41be2b71a1cb212f6da562b05a94dd5597cdbaa9)
 
 Lecture 21	Using Django Forms
 

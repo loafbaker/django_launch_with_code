@@ -7,4 +7,5 @@ class EmailForm(forms.Form):
 class JoinForm(forms.ModelForm):
     class Meta:
         model = Join
+        fields = ["email",]
 

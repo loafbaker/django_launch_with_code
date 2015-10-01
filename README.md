@@ -23,7 +23,7 @@ Lecture 20	[Start a Django App](../../tree/41be2b71a1cb212f6da562b05a94dd5597cdb
 
 Lecture 21	[Using Django Forms](../../tree/64cf2aeb6578c8bdfa3e181f2bcef296f1c9a0d0)
 
-Lecture 22	Making Changes to Models in Django Version 1.6
+Lecture 22	[Making Changes to Models in Django Version 1.6](../../tree/533e51ac858558598647b43afe469afef765d293)
 
 Lecture 23	Get User IP Address
 

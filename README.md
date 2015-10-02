@@ -29,7 +29,7 @@ Lecture 23	[Get User IP Address](../../tree/d41e8c9ab87bfe9ee27cf9ac48eea14341d0
 
 Lecture 24	[Create Custom Reference ID](../../tree/2c6928b0912e197dee8b179922d0c1546d062630)
 
-Lecture 25	Create a Social Sharing Page
+Lecture 25	[Create a Social Sharing Page](../../tree/8a95650781519e99713006ce4479b2010e931d22)
 
 Lecture 26	Use Custom Django Middleware
 

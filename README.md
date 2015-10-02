@@ -27,7 +27,7 @@ Lecture 22	[Making Changes to Models in Django Version 1.6](../../tree/533e51ac8
 
 Lecture 23	[Get User IP Address](../../tree/d41e8c9ab87bfe9ee27cf9ac48eea14341d0b7f9)
 
-Lecture 24	Create Custom Reference ID
+Lecture 24	[Create Custom Reference ID](../../tree/2c6928b0912e197dee8b179922d0c1546d062630)
 
 Lecture 25	Create a Social Sharing Page
 

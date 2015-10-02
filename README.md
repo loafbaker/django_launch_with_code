@@ -25,7 +25,7 @@ Lecture 21	[Using Django Forms](../../tree/64cf2aeb6578c8bdfa3e181f2bcef296f1c9a
 
 Lecture 22	[Making Changes to Models in Django Version 1.6](../../tree/533e51ac858558598647b43afe469afef765d293)
 
-Lecture 23	Get User IP Address
+Lecture 23	[Get User IP Address](../../tree/d41e8c9ab87bfe9ee27cf9ac48eea14341d0b7f9)
 
 Lecture 24	Create Custom Reference ID
 

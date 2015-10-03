@@ -33,7 +33,7 @@ Lecture 25	[Create a Social Sharing Page](../../tree/8a95650781519e99713006ce447
 
 Lecture 26	[Use Custom Django Middleware](../../tree/eee5d06da848b19e525156081002c8c5de589300)
 
-Lecture 27	Save Shares by Reference ID
+Lecture 27	[Save Shares by Reference ID](../../tree/8682ef9973dfc06e573c33b070fe5f213cf4a96b)
 
 Lecture 28	Create a Social Sharing Page Part 2
 

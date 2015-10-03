@@ -31,7 +31,7 @@ Lecture 24	[Create Custom Reference ID](../../tree/2c6928b0912e197dee8b179922d0c
 
 Lecture 25	[Create a Social Sharing Page](../../tree/8a95650781519e99713006ce4479b2010e931d22)
 
-Lecture 26	Use Custom Django Middleware
+Lecture 26	[Use Custom Django Middleware](../../tree/eee5d06da848b19e525156081002c8c5de589300)
 
 Lecture 27	Save Shares by Reference ID
 

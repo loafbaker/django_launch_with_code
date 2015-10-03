@@ -35,7 +35,7 @@ Lecture 26	[Use Custom Django Middleware](../../tree/eee5d06da848b19e52515608100
 
 Lecture 27	[Save Shares by Reference ID](../../tree/8682ef9973dfc06e573c33b070fe5f213cf4a96b)
 
-Lecture 28	Create a Social Sharing Page Part 2
+Lecture 28	[Create a Social Sharing Page Part 2](../../tree/be7861d2e66cb2ac0dd97175252c18758e8ffbdd)
 
 Lecture 29	Load Static Files in Django
 

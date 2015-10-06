@@ -37,7 +37,11 @@ Lecture 27	[Save Shares by Reference ID](../../tree/8682ef9973dfc06e573c33b070fe
 
 Lecture 28	[Create a Social Sharing Page Part 2](../../tree/be7861d2e66cb2ac0dd97175252c18758e8ffbdd)
 
-Lecture 29	Load Static Files in Django
+Lecture 29	[Load Static Files in Django](../../tree/2ae49a922d2c85494a649b5f080640b6bca3fa1f)
+
+Lecture 30	[Update Front-End Design](../../tree/0ee2ead0ef24bc10c7b8fa0e65ec592634e644e9)
+
+Lecture 31	Create a Social Sharing Page Part 3
 
 
 

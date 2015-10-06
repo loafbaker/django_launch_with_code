@@ -43,7 +43,9 @@ Lecture 30	[Update Front-End Design](../../tree/0ee2ead0ef24bc10c7b8fa0e65ec5926
 
 Lecture 31	[Create a Social Sharing Page Part 3](../../tree/9df9f06e67a1a17f75d42270480ae89b527a4077)
 
-Lecture 32	Use jQuery to Make Progress Bar
+Lecture 32	[Use jQuery to Make Progress Bar](../../tree/d2bbd3fd58996d43582932f8d7df59fb4ac038d6)
+
+Lecture 33	Implement Social Sharing HTML
 
 
 

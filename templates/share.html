@@ -80,11 +80,11 @@ if($signUpCount == 0) {
             <div class="well" style="background-color:white;">{{ ref_url }}</div>
             Share<br/>
 
-            <i class="fa fa-facebook-square fa-4x" style="color:#3b5998;"></i>
-            <i class="fa fa-twitter-square fa-4x" style="color:#4099FF;"></i>
-            <i class="fa fa-linkedin-square fa-4x" style="color:#007bb6;"></i>
-            <i class="fa fa-reddit-square fa-4x" style="color:#900020;"></i>
-            <i class="fa fa-google-plus-square fa-4x" style="color:#D34836;"></i>
+            <a href="https://www.facebook.com/sharer/sharer.php?u={{ ref_url }}" target="_blank"><i class="fa fa-facebook-square fa-4x" style="color:#3b5998;"></i></a>
+            <a href="https://twitter.com/home?status=Hello%20this%20is%20a%20tag%20that%20I%20want%20to%20share%20at%20some%20point.%20Tweet%20%23LaunchWithCode%20{{ ref_url }}" target="_blank"><i class="fa fa-twitter-square fa-4x" style="color:#4099FF;"></i></a>
+            <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ ref_url }}&title=Django%20tutorial%20title.&summary=Introducing%20Launch-With-Code%20as%20a%20starting%20point%20to%20create%20something%20more%20unique.&source={{ ref_url }}" target="_blank"><i class="fa fa-linkedin-square fa-4x" style="color:#007bb6;"></i></a>
+            <a href="http://www.reddit.com/submit?url={{ ref_url }}&title=Django%20tutorial%20title." target="_blank"><i class="fa fa-reddit-square fa-4x" style="color:#900020;"></i></a>
+            <a href="https://plus.google.com/share?url={{ ref_url }}" target="_blank"><i class="fa fa-google-plus-square fa-4x" style="color:#D34836;"></i></a>
           </div>
           <div class="col-md-6 pull-left">
             <img src="{% static 'img/launch.jpg' %}" class="img-responsive img-rounded" />

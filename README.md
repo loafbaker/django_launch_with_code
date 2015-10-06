@@ -45,7 +45,9 @@ Lecture 31	[Create a Social Sharing Page Part 3](../../tree/9df9f06e67a1a17f75d4
 
 Lecture 32	[Use jQuery to Make Progress Bar](../../tree/d2bbd3fd58996d43582932f8d7df59fb4ac038d6)
 
-Lecture 33	Implement Social Sharing HTML
+Lecture 33	[Implement Social Sharing HTML](../../tree/162da4fabc97d959b70a70bae7afcfb7e6aa91bc)
+
+Lecture 34	CSS Background Image & Parallax
 
 
 

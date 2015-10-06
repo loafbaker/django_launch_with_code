@@ -41,7 +41,9 @@ Lecture 29	[Load Static Files in Django](../../tree/2ae49a922d2c85494a649b5f0806
 
 Lecture 30	[Update Front-End Design](../../tree/0ee2ead0ef24bc10c7b8fa0e65ec592634e644e9)
 
-Lecture 31	Create a Social Sharing Page Part 3
+Lecture 31	[Create a Social Sharing Page Part 3](../../tree/9df9f06e67a1a17f75d42270480ae89b527a4077)
+
+Lecture 32	Use jQuery to Make Progress Bar
 
 
 

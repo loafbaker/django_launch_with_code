@@ -47,7 +47,9 @@ Lecture 32	[Use jQuery to Make Progress Bar](../../tree/d2bbd3fd58996d43582932f8
 
 Lecture 33	[Implement Social Sharing HTML](../../tree/162da4fabc97d959b70a70bae7afcfb7e6aa91bc)
 
-Lecture 34	CSS Background Image & Parallax
+Lecture 34	[CSS Background Image & Parallax](../../tree/d9220c8c69032f693229fd60851efd8e4c59137e)
+
+Lecture 35	Update Email Form Design
 
 
 

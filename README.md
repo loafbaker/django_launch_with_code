@@ -49,7 +49,9 @@ Lecture 33	[Implement Social Sharing HTML](../../tree/162da4fabc97d959b70a70bae7
 
 Lecture 34	[CSS Background Image & Parallax](../../tree/d9220c8c69032f693229fd60851efd8e4c59137e)
 
-Lecture 35	Update Email Form Design
+Lecture 35	[Update Email Form Design](../../tree/471fb50ab31dbf0614798b2a3a13921852e48c46)
+
+Lecture 36	Final Styles Update
 
 
 

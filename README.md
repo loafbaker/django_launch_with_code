@@ -51,7 +51,9 @@ Lecture 34	[CSS Background Image & Parallax](../../tree/d9220c8c69032f693229fd60
 
 Lecture 35	[Update Email Form Design](../../tree/471fb50ab31dbf0614798b2a3a13921852e48c46)
 
-Lecture 36	Final Styles Update
+Lecture 36	[Final Styles Update](../../tree/9816450a41b9294d9a78ec1a362e00b777f9e749)
+
+Lecture 37	Prepare for Producing using Heroku
 
 
 

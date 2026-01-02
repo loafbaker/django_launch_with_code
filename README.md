@@ -53,8 +53,8 @@ Lecture 35	[Update Email Form Design](../../tree/471fb50ab31dbf0614798b2a3a13921
 
 Lecture 36	[Final Styles Update](../../tree/9816450a41b9294d9a78ec1a362e00b777f9e749)
 
-Lecture 37	Prepare for Producing using Heroku
+Lecture 37	[Prepare for Producing using Heroku](../../tree/9ced2b69c5340c8c80296260d19b3bbf0f60fe15)
 
+## Updates in 2026 (Django 5.2.9)
 
-
-
+Current Version	Major upgrade to Django 5.2 and Python 3

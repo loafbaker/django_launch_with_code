@@ -53,10 +53,10 @@ def home(request):
     #if form.is_valid():
     #    email = form.cleaned_data["email"]
     #    new_join, created = Join.objects.get_or_create(email=email)
-    #    print new_join, created
-    #    print new_join.timestamp
+    #    print(new_join, created)
+    #    print(new_join.timestamp)
     #    if created:
-    #        print "This obj was created"
+    #        print("This obj was created")
 
     # This is using model forms
     form = JoinForm(request.POST or None)
@@ -68,17 +68,17 @@ def home(request):
         if created:
             new_join_old.ref_id = get_ref_id()
             # add our friend who referred us to our join model or a related
-            if not obj == None:
+            if obj is not None:
                 new_join_old.friend = obj
             new_join_old.ip_address = get_ip(request)
             new_join_old.save()
 
         # print all "friends" that joined as a result of main sharer email
-        # print Join.objects.filter(friend=obj)
-        # print obj.referral.all()
+        # print(Join.objects.filter(friend=obj))
+        # print(obj.referral.all())
         # print the number of "friends" that joined as a result of main sharer email
-        # print Join.objects.filter(friend=obj).count()
-        # print obj.referral.all().count()
+        # print(Join.objects.filter(friend=obj).count())
+        # print(obj.referral.all().count())
 
         # redirect here
         return HttpResponseRedirect("/%s" % (new_join_old.ref_id))

@@ -9,6 +9,12 @@ https://www.udemy.com/coding-for-entrepreneurs/
 
 Current Version	Major upgrade to Django 5.2 and Python 3
 
+## Benchmark test
+
+```bash
+python manage.py test
+```
+
 ## Deprecated Documents
 
 Versions for Django 1.8.5 have been recorded in the file `DEPRECATED.md`.

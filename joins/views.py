@@ -24,7 +24,7 @@ def get_ref_id():
     try:
         id_exists = Join.objects.get(ref_id=ref_id)
         return get_ref_id()
-    except:
+    except Join.DoesNotExist:
         return ref_id
 
 
@@ -45,7 +45,7 @@ def home(request):
     try:
         join_id = request.session['join_id_ref']
         obj = Join.objects.get(id=join_id)
-    except:
+    except Join.DoesNotExist:
         obj = None
 
     ## This is using regular django form
@@ -68,7 +68,7 @@ def home(request):
         if created:
             new_join_old.ref_id = get_ref_id()
             # add our friend who referred us to our join model or a related
-            if obj is not None:
+            if obj:
                 new_join_old.friend = obj
             new_join_old.ip_address = get_ip(request)
             new_join_old.save()
